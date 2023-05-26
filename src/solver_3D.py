@@ -173,13 +173,13 @@ class ThreeDsolverFibra(ThreeDsolver):
 
 
 
-# if __name__ == "__main__":
-# t = ThreeDsolver('mesh/3D')
-# # print(t.vtu_mesh)
-# t.FL_method()
-# t.discrete_method()
-# print(ThreeDsolverFibra.mro())
-s = ThreeDsolverFibra('mesh/real_model')
-s.FL_method()
-# s.discrete_method()
+if __name__ == "__main__":
+    # t = ThreeDsolver('mesh/3D')
+    # # print(t.vtu_mesh)
+    # t.FL_method()
+    # t.discrete_method()
+    # print(ThreeDsolverFibra.mro())
+    s = ThreeDsolverFibra('mesh/real_model')
+    s.FL_method()
+    # s.discrete_method()
 
