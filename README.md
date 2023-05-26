@@ -1,4 +1,4 @@
-# ECG Fast Model
+#  Methods of fast computing full Electrocardiography system
 
 Sirius University,  
 Department of Information Technology and Artificial Intelligence,  
