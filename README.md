@@ -1,4 +1,4 @@
-# ECG_Fast_Model
+# ECG Fast Model
 
 Sirius University,  
 Department of Information Technology and Artificial Intelligence,  
