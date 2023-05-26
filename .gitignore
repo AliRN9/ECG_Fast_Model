@@ -9,5 +9,7 @@ src/3d_sigma.py
 src/matrix_metod_3d.py
 ECG
 __pycache__
+.idea
+.gitignore
 test.py
 fibra_2d_anna.py
