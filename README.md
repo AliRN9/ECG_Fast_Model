@@ -7,9 +7,9 @@ Mathematical modelling in biomedicine and petreleum engineering.
 Fundamental model:  
 Monodomain + Full ECG  
 
-Optimization:  
-1) Discrete method   
-2) Lead field method   
+Methods for reduce computing time:  
+1) Discrete    
+2) Lead field    
 
 Solver - Nonlinear conjugate gradient method  
 
