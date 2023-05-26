@@ -5,9 +5,9 @@ src/task1_3d.py
 src/task3.py
 src/task3_3d.py
 src/real_model.py
-src/real_model.py
 src/3d_sigma.py
 src/matrix_metod_3d.py
 ECG
+__pycache__
 test.py
 fibra_2d_anna.py
