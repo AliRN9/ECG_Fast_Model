@@ -9,7 +9,7 @@ Monodomain + Full ECG
 
 Methods for reduce computing time:  
 1) Discrete    
-2) Lead field    
+2) Lead field (1)   
 
 Solver - Nonlinear conjugate gradient method  
 
@@ -17,3 +17,9 @@ Solver - Nonlinear conjugate gradient method
 
 The project developing thanks of School of Mathematical modelling in Biomedicine (2023).  
 Supervisors: Alexander A. Danilov, Aleksey Legkiy 
+
+ # References  
+ 
+(1)Potse M. Scalable and accurate ECG simulation for
+reaction-diffusion models of the human heart //Frontiers in
+physiology. – 2018. – Т. 9. – С. 370.
