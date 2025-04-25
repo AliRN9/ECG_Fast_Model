@@ -11,7 +11,7 @@ Methods for reduce computing time:
 1) Discrete    
 2) Lead field (1)   
 
-Solver - Nonlinear conjugate gradient method  
+Solver: Nonlinear conjugate gradient method  
 
 <image src="https://yt3.googleusercontent.com/ytc/AL5GRJXIeMRijXBvlIipDyAORbhmjUnix0HlG9GwoYmW=s900-c-k-c0x00ffffff-no-rj" alt="Описание картинки" width="100">
 
